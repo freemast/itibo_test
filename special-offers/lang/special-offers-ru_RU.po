@@ -1,0 +1,257 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Project-Id-Version: Special offers\n"
+"POT-Creation-Date: 2018-07-24 13:46+0300\n"
+"PO-Revision-Date: 2018-07-24 14:39+0300\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: special-offers.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Last-Translator: \n"
+"Language: ru_RU\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: meta-box.php:5 meta-box.php:90 show-single-widget.php:182
+#: show-single-widget.php:310
+msgid "Fixed price"
+msgstr "Регулярная цена"
+
+#: meta-box.php:6 meta-box.php:91 show-single-widget.php:186
+#: show-single-widget.php:314
+msgid "Special price"
+msgstr "Специальная цена"
+
+#: meta-box.php:7 meta-box.php:92 show-single-widget.php:190
+#: show-single-widget.php:318
+msgid "Actual"
+msgstr "Актуально до"
+
+#: meta-box.php:8 meta-box.php:89 show-single-widget.php:178
+#: show-single-widget.php:306
+msgid "Information"
+msgstr "Информация"
+
+#: meta-box.php:9
+msgid "Shortcodes"
+msgstr "Шорткоды"
+
+#: meta-box.php:15
+msgid "To output, use any of the following code options:"
+msgstr "Для вывода используйте специальную вкладку в редакторе, либо любой из следующих вариантов кода:"
+
+#: meta-box.php:27
+msgid "Regular price:"
+msgstr "Регулярная цена:"
+
+#: meta-box.php:35
+msgid "Special price:"
+msgstr "Специальная цена:"
+
+#: meta-box.php:44
+msgid "Actual:"
+msgstr "Актуально до:"
+
+#: meta-box.php:53
+msgid "You can use this field to describe this special offers:"
+msgstr "Вы можете использовать это поле для описания специального предложения:"
+
+#: popup.php:17 popup.php:18
+msgid "Add special offers"
+msgstr "Добавить специальное предложение"
+
+#: popup.php:31
+msgid "Please select a special offers"
+msgstr "Выберите специальное предложение"
+
+#: popup.php:40 popup.php:64
+msgid "Insert special offers"
+msgstr "Вставить специальное предложение"
+
+#: popup.php:43
+msgid "Select a special offers below to add it to your post or page."
+msgstr "Выберите специальное предложение из списка ниже, чтобы добавить его в свой пост или на страницу."
+
+#: popup.php:48
+msgid "Select a special offers"
+msgstr "Выберите специальное предложение"
+
+#: popup.php:58 show-single-widget.php:56
+msgid "No special offers available"
+msgstr "Нет специальных предложений"
+
+#: show-ajax-widget.php:19
+msgid "Special offers (Ajax)"
+msgstr "Специальные предложения (Ajax)"
+
+#: show-ajax-widget.php:22
+msgid "A widget for Ajax special offers filter"
+msgstr "Виджет специальных предложений с фильтром Ajax"
+
+#: show-ajax-widget.php:55
+msgid "Special offers filter"
+msgstr "Фильтр специальных предложений"
+
+#: show-ajax-widget.php:62
+msgid "Title:"
+msgstr "Заголовок:"
+
+#: show-single-widget.php:18
+msgid "Special offers (Single)"
+msgstr "Специальное предложение (Одиночное)"
+
+#: show-single-widget.php:21
+msgid "A widget for special offers"
+msgstr "Виджет для специальных предложений"
+
+#: show-single-widget.php:41
+msgid "Special offers to Display:"
+msgstr "Специальные предложения для отображения:"
+
+#: show-single-widget.php:67 show-single-widget.php:208
+msgid "Edit special offers"
+msgstr "Редактирование специального предложения"
+
+#: show-single-widget.php:73
+msgid "Show title"
+msgstr "Показать заголок"
+
+#: show-single-widget.php:78
+msgid "Show content"
+msgstr "Показать текст"
+
+#: show-single-widget.php:83
+msgid "Show featured image"
+msgstr "Показать изображение"
+
+#: show-single-widget.php:88
+msgid "Do not apply content filters"
+msgstr "Не применять фильтры содержимого"
+
+#: show-single-widget.php:94
+msgid "Show information"
+msgstr "Показать информацию"
+
+#: show-single-widget.php:99
+msgid "Show fixed price"
+msgstr "Показать регулярную цену"
+
+#: show-single-widget.php:104
+msgid "Show special price"
+msgstr "Показать специальную цену"
+
+#: show-single-widget.php:109
+msgid "Show actual"
+msgstr "Показать дату до которого актуально предложение"
+
+#: show-single-widget.php:135
+msgid "Find"
+msgstr "Найти"
+
+#: show-single-widget.php:203
+msgctxt "post type general name"
+msgid "Special offers"
+msgstr ""
+
+#: show-single-widget.php:204
+msgctxt "post type singular name"
+msgid "Special offers"
+msgstr ""
+
+#: show-single-widget.php:205
+msgctxt "post type plural name"
+msgid "Special offers"
+msgstr ""
+
+#: show-single-widget.php:206
+msgctxt "block"
+msgid "Add special offers"
+msgstr ""
+
+#: show-single-widget.php:207
+msgid "Add new special offers"
+msgstr "Добавить специальное предложение"
+
+#: show-single-widget.php:209
+msgid "New special offers"
+msgstr "Новое специальное предложение"
+
+#: show-single-widget.php:210
+msgid "View special offers"
+msgstr "Просмотр специального предложения"
+
+#: show-single-widget.php:211
+msgid "Search special offers"
+msgstr "Поиск специального предложения"
+
+#: show-single-widget.php:212
+msgid "Special offers no found"
+msgstr "Специальное предложение не найдено"
+
+#: show-single-widget.php:213
+msgid "Special offers no found in trash"
+msgstr "Специальные предложения не найдены в корзине"
+
+#: show-single-widget.php:237 show-single-widget.php:240
+msgid "Special offers updated."
+msgstr "Специальное предложение обновлено"
+
+#: show-single-widget.php:238
+msgid "Custom field updated."
+msgstr "Пользовательское поле обновлено."
+
+#: show-single-widget.php:239
+msgid "Custom field deleted."
+msgstr "Пользовательское поле удалено."
+
+#: show-single-widget.php:241
+#, php-format
+msgid "Special offers restored to revision from %s"
+msgstr "Специальные предложения, восстановленные до версии %s"
+
+#: show-single-widget.php:242
+msgid "Special offers published."
+msgstr "Специальное предложение опубликовано."
+
+#: show-single-widget.php:243
+msgid "Special offers saved."
+msgstr "Специальное предложение сохранено."
+
+#: show-single-widget.php:244
+msgid "Special offers submitted."
+msgstr "Представлены специальные предложения."
+
+#: show-single-widget.php:245
+#, php-format
+msgid "Special offers scheduled for: <strong>%1$s</strong>."
+msgstr "Специальные предложения, запланированные для: <strong> %1$s </ strong>."
+
+#: show-single-widget.php:245
+msgid "M j, Y @ G:i"
+msgstr "M j, Y @ G:i"
+
+#: show-single-widget.php:246
+msgid "Special offers draft updated."
+msgstr "Проект специальных предложений обновлен."
+
+#: special-offers.php:93
+msgid "<h2>Special offers no found</h2>"
+msgstr "<h2>Специальные предложения не найдены</ h2>"
+
+#. Plugin Name of the plugin/theme
+msgid "Special offers"
+msgstr "Специальные предложения"
+
+#. Description of the plugin/theme
+msgid "Специальные предложения"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "freemast"
+msgstr ""

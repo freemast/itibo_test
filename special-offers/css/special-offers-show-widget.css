@@ -1,0 +1,23 @@
+.sow-code {
+	display: block;
+	padding: 10px;
+    margin-bottom: 10px;
+}
+
+.sow-information {
+	height: 8em;
+	width: 100%;
+}
+
+.sow-fixed-price {
+	width: 100%;
+}
+
+.sow-special-price {
+	width: 100%;
+}
+
+.sow-actual {
+	width: 100%;
+}
+
